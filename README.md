@@ -7,9 +7,14 @@ Project Objectives:
 The primary goal of this project was to strategically align Mitron Bank's new credit card offerings with the diverse needs and preferences of its customer base. This endeavor was undertaken with a keen eye on staying attuned to market trends and ensuring the utmost relevance and appeal of the new credit cards.
 
 Key Highlights:
+
 Demographic Insight: Understanding the age, gender, and geographic distribution of the customer base.
+
+
 Occupational Impact: Identifying the influence of occupation, with a special focus on IT employees and Business Owners.
+
 Spending Patterns: Analyzing preferred payment methods, high-spending months, and category-wise spending.
+
 Significance:
 This project is pivotal for Mitron Bank as it not only informs the strategic decisions surrounding the new credit cards but also contributes to the overall competitive positioning of the bank in the financial sector.
 
